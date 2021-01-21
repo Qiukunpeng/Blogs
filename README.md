@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-In this branch, I will upload some notebooks to record the learning process.
+In this repository, I will upload some notebooks to record the learning process.
 
 ## Contents
 
